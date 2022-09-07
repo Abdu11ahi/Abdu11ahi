@@ -5,7 +5,7 @@
 
 ### I'm currently looking for new opportunities after graduating from the School of Code! <img src="https://d33wubrfki0l68.cloudfront.net/e6fddcbea146f91d2f3c160f7d56a9391a4740b0/4e758/static/logo-51c754388b198e5bbb0d08a971ebbfa2.png" width="16px">
 
-### I used to run my own ecommerce store and have now decided I wanted to broaden my horizons and pish myself by learning how to code.
+### I used to run my own ecommerce store and have now decided I wanted to broaden my horizons and push myself by learning how to code.
 
 ### Connect with me!
 
